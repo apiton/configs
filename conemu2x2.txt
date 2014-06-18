@@ -1,0 +1,4 @@
+"%ProgramFiles(x86)%\Git\bin\sh.exe" --login -i -cur_console:d:"c:\dev":afinh250t:"Win + 1":
+"%ProgramFiles(x86)%\Git\bin\sh.exe" --login -i -new_console:d:"c:\dev":inh250sT50Ht:"Win + 2":
+"%ProgramFiles(x86)%\Git\bin\sh.exe" --login -i -new_console:d:"c:\dev":inh250s1T50Vt:"Win + 3":
+"%ProgramFiles(x86)%\Git\bin\sh.exe" --login -i -new_console:d:"c:\dev":inh250s2T50Vt:"Win + 4":
