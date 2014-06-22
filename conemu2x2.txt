@@ -1,9 +1,9 @@
-"%ProgramFiles(x86)%\Git\bin\sh.exe" --login -i -cur_console:d:"c:\dev":aint:"Win + 1":
-"%ProgramFiles(x86)%\Git\bin\sh.exe" --login -i -new_console:d:"c:\dev\boxes":finh250t:"Win + 2":
-"%ProgramFiles(x86)%\Git\bin\sh.exe" --login -i -new_console:d:"c:\dev\boxes":inh250s2T50Ht:"Win + 3":
+"%ProgramFiles(x86)%\Git\bin\sh.exe" --login -i -cur_console:d:"c:\dev\boxes":finh250t:"Win + 1":
+"%ProgramFiles(x86)%\Git\bin\sh.exe" --login -i -new_console:d:"c:\dev\boxes":inh250s1T50Ht:"Win + 2":
+"%ProgramFiles(x86)%\Git\bin\sh.exe" --login -i -new_console:d:"c:\dev\boxes":inh250s1T50Vt:"Win + 3":
 "%ProgramFiles(x86)%\Git\bin\sh.exe" --login -i -new_console:d:"c:\dev\boxes":inh250s2T50Vt:"Win + 4":
-"%ProgramFiles(x86)%\Git\bin\sh.exe" --login -i -new_console:d:"c:\dev\boxes":inh250s3T50Vt:"Win + 5":
-"%ProgramFiles(x86)%\Git\bin\sh.exe" --login -i -new_console:d:"c:\dev":int:"Win + 6":
-"%ProgramFiles(x86)%\Git\bin\sh.exe" --login -i -new_console:d:"c:\dev":ins6T50Ht:"Win + 7":
+"%ProgramFiles(x86)%\Git\bin\sh.exe" --login -i -new_console:d:"c:\dev":int:"Win + 5":
+"%ProgramFiles(x86)%\Git\bin\sh.exe" --login -i -new_console:d:"c:\dev":ins5T50Ht:"Win + 6":
+"%ProgramFiles(x86)%\Git\bin\sh.exe" --login -i -new_console:d:"c:\dev":int:"Win + 7":
 "%ProgramFiles(x86)%\Git\bin\sh.exe" --login -i -new_console:d:"c:\dev":int:"Win + 8":
-"%ProgramFiles(x86)%\Git\bin\sh.exe" --login -i -new_console:d:"c:\dev":int:"Win + 9":
+"%ProgramFiles(x86)%\Git\bin\sh.exe" --login -i -new_console:d:"c:\dev":aint:"Win + 9":
